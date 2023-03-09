@@ -1,0 +1,10 @@
+
+tasks:
+  - init: pnpm install
+    command: pnpm run dev
+
+vscode:
+  extensions:
+    - Prisma.prisma
+
+
